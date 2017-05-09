@@ -1,4 +1,4 @@
-package ByteAndCharStream;
+﻿package ByteAndCharStream;
 
 import java.io.*;
 public class FileReaderTest {
